@@ -35,6 +35,18 @@
       <Name>DimStore.dim</Name>
       <FullPath>DimStore.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>DimEntity.dim</Name>
+      <FullPath>DimEntity.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>DimGeography.dim</Name>
+      <FullPath>DimGeography.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>dimstoreENTGEO.dim</Name>
+      <FullPath>dimstoreENTGEO.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
