@@ -65,6 +65,10 @@
           <AttributeID>Artist Name</AttributeID>
           <AllowedSet>{[DimAlbum].[Artist Name].&amp;[AC/DC]}</AllowedSet>
         </AttributePermission>
+        <AttributePermission dwd:design-time-name="ef79d075-c1c8-4841-a289-e1ad663543fe">
+          <AttributeID>Album Id</AttributeID>
+          <DeniedSet>{}</DeniedSet>
+        </AttributePermission>
       </AttributePermissions>
     </DimensionPermission>
     <DimensionPermission dwd:design-time-name="8d6656a6-9afb-4884-b84e-8acfe6e32ced">
