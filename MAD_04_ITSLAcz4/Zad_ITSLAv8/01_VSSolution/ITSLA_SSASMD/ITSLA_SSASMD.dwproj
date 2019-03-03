@@ -51,6 +51,10 @@
       <Name>v Dim Product.dim</Name>
       <FullPath>v Dim Product.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>V Channel.dim</Name>
+      <FullPath>V Channel.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>

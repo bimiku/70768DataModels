@@ -698,10 +698,25 @@
         <Attribute dwd:design-time-name="e6b42483-f993-464f-91d5-ac0e4a90f514">
           <AttributeID>Calendar Month</AttributeID>
         </Attribute>
+        <Attribute dwd:design-time-name="b2caf176-47c2-4293-a8ae-886f21c1b796">
+          <AttributeID>Fiscal Quarter</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="2a717360-b97f-4b32-83d0-b9600188a282">
+          <AttributeID>Fiscal Year</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="5b84a16a-d3f7-48de-9d6c-ca4abf43db5a">
+          <AttributeID>Fiscal Half Year</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="f7ab0146-5995-4c5f-911d-35f90fc045f7">
+          <AttributeID>Fiscal Month</AttributeID>
+        </Attribute>
       </Attributes>
       <Hierarchies>
         <Hierarchy dwd:design-time-name="f298d5d2-511d-451e-9bfd-68da95512169">
           <HierarchyID>Hierarchy</HierarchyID>
+        </Hierarchy>
+        <Hierarchy dwd:design-time-name="f8e63631-b270-4ec9-85b6-8d565508b0b7">
+          <HierarchyID>Hierarchy 1</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
